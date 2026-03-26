@@ -33,3 +33,6 @@ dist/
 *.txt
 *.zip
 *.data
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+work.py
