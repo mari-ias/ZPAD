@@ -1,4 +1,4 @@
-і# System files
+# System files
 .DS_Store
 Thumbs.db
 
@@ -10,6 +10,10 @@ Thumbs.db
 # Python cache
 __pycache__/
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
 
 # Virtual environments
 venv/
@@ -25,12 +29,7 @@ dist/
 *.log
 *.tmp
 
-# Data files (large / generated)
-*.csv
-*.json
-*.xml
-*.dat
-*.txt
-*.zip
-*.data
-
+# Data from previous labs
+lab2/*.txt
+lab2/*.zip
+vhi_data/
