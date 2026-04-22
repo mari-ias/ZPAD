@@ -14,5 +14,6 @@ ZPAD/
 ├── lab2/
 ├── lab3/
 ├── lab4/
-└── lab5/   # Додано веб-додаток на Streamlit
+├── lab5/   # Додано веб-додаток на Streamlit
+└── lab6/ 
 ```

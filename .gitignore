@@ -33,3 +33,10 @@ dist/
 lab2/*.txt
 lab2/*.zip
 vhi_data/
+
+#lab6
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.o
