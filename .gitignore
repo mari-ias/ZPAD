@@ -1,5 +1,49 @@
 
 # System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Build folders
+bin/
+build/
+dist/
+
+# Logs
+*.log
+*.tmp
+
+# Data (from previous labs)
+lab2/*.txt
+lab2/*.zip
+vhi_data/
+
+#lab6
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.o
+
+
+# System files
 
 
 і# System files
