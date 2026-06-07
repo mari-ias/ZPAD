@@ -44,7 +44,11 @@ dist/
 *.tmp
 
 
+# Data (from previous labs)
+
+
 # Data from previous labs
+
 lab2/*.txt
 lab2/*.zip
 vhi_data/

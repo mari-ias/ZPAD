@@ -15,6 +15,10 @@ ZPAD/
 ├── lab2/
 ├── lab3/
 ├── lab4/
+
+└── lab5/   # Додано веб-додаток на Streamlit
+```
+
 ```
 
 ```
@@ -45,5 +49,6 @@ ZPAD/
 2. Створити та активувати venv: `python -m venv venv` -> `venv\Scripts\activate`
 3. Встановити залежності: `pip install -r requirements.txt`
 4. Запустити Jupyter: `jupyter notebook`
+
 
 
