@@ -1,4 +1,9 @@
+
 # System files
+
+
+і# System files
+
 .DS_Store
 Thumbs.db
 
@@ -16,9 +21,18 @@ __pycache__/
 */.ipynb_checkpoints/
 
 # Virtual environments
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+
 venv/
 env/
 .venv/
+
 
 # Build folders
 bin/
@@ -29,7 +43,43 @@ dist/
 *.log
 *.tmp
 
+
 # Data (from previous labs)
+
+
+# Data from previous labs
+
 lab2/*.txt
 lab2/*.zip
 vhi_data/
+
+# Data files (large / generated)
+*.csv
+*.json
+*.xml
+*.dat
+*.txt
+*.zip
+*.data
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# System files (сміття від Windows та Mac)
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ігноруємо великі архіви та текстові бази даних
+household_power_consumption.txt
+power_consumption.zip
+vhi_data/
+work.py
+
+
