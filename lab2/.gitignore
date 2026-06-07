@@ -1,3 +1,4 @@
+
 # System files
 .DS_Store
 Thumbs.db
@@ -30,3 +31,33 @@ dist/
 *.json
 *.xml
 *.dat
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data protection 
+*.zip
+*.txt
+*.csv
+vhi_data/
+
