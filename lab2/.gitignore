@@ -1,3 +1,37 @@
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Build folders
+bin/
+build/
+dist/
+
+# Logs
+*.log
+*.tmp
+
+# Data files (large / generated)
+*.csv
+*.json
+*.xml
+*.dat
+
 # Python
 __pycache__/
 *.py[cod]
@@ -26,3 +60,4 @@ Thumbs.db
 *.txt
 *.csv
 vhi_data/
+

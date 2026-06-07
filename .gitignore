@@ -1,12 +1,49 @@
+
+і# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
 
 # Virtual environment
+
 venv/
 env/
 .venv/
+
+
+# Build folders
+bin/
+build/
+dist/
+
+# Logs
+*.log
+*.tmp
+
+# Data files (large / generated)
+*.csv
+*.json
+*.xml
+*.dat
+*.txt
+*.zip
+*.data
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -26,3 +63,4 @@ household_power_consumption.txt
 power_consumption.zip
 vhi_data/
 work.py
+
