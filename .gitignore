@@ -1,5 +1,9 @@
 
+# System files
+
+
 і# System files
+
 .DS_Store
 Thumbs.db
 
@@ -11,6 +15,10 @@ Thumbs.db
 # Python cache
 __pycache__/
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
 
 # Virtual environments
 
@@ -34,6 +42,12 @@ dist/
 # Logs
 *.log
 *.tmp
+
+
+# Data from previous labs
+lab2/*.txt
+lab2/*.zip
+vhi_data/
 
 # Data files (large / generated)
 *.csv
@@ -63,4 +77,5 @@ household_power_consumption.txt
 power_consumption.zip
 vhi_data/
 work.py
+
 
